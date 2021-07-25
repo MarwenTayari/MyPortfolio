@@ -363,7 +363,7 @@
                       <div> 
                         <p class="marvel text-center">1. S & B Store</p> 
                         <div class="image-div"> 
-                           <img src="images/portfolio/S&BStore.png" alt="S&BStore" class="img-fluid"> 
+                           <img src="images/portfolio/S&BStore.jpg" alt="S&BStore" class="img-fluid"> 
                         </div> 
                         <div> 
                           <p class="p-3">Application E-commerce conçu pour vente/achat
@@ -383,7 +383,7 @@
                       <div> 
                         <p class="marvel text-center">2. N & B</p> 
                         <div class="image-div"> 
-                          <img src="images/portfolio/N&B.png" alt="N&B" class="img-fluid">
+                          <img src="images/portfolio/N&B.jpg" alt="N&B" class="img-fluid">
                         </div>
                         <p class="p-3"> Application Web conçu pour présenter quelques endroits 
                         </p>
@@ -401,7 +401,7 @@
                       <div> 
                         <p class="marvel text-center">3. Shopping Cart</p> 
                         <div class="image-div"> 
-                          <img src="images/portfolio/ShoppingCart.png" alt="ShoppingCart" class="img-fluid">
+                          <img src="images/portfolio/ShoppingCart.jpg" alt="ShoppingCart" class="img-fluid">
                         </div>
                         <p class="p-3"> Application Web conçu pour l'achat des articles
                         </p>
@@ -419,7 +419,7 @@
                       <div> 
                         <p class="marvel text-center">4. Movie App</p> 
                         <div class="image-div"> 
-                          <img src="images/portfolio/Movieapp.png" alt="MovieApp" class="model img-fluid">
+                          <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
                         </div>
                           <p class="p-3">Application Web conçu pour présenter des filmes Description/Rate/trailer...
                           </p>
