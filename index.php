@@ -401,7 +401,7 @@
                       <div> 
                         <p class="marvel text-center">3. Shopping Cart</p> 
                         <div class="image-div"> 
-                          <img src="images/portfolio/ShoppingCart.jpg" alt="ShoppingCart" class="img-fluid">
+                          <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid">
                         </div>
                         <p class="p-3"> Application Web conçu pour l'achat des articles
                         </p>
