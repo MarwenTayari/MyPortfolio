@@ -1,0 +1,119 @@
+
+.portfolio {
+    min-height : 70vh ;
+    background-image: url('../images/vieuxfond.jpg') ; 
+    background-repeat : no-repeat ; 
+    background-size: cover;
+}
+
+.portfolio-pres {
+    font-size : 22px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.container-protfolio {
+    width : 100% ; 
+    height : 100% ; 
+    display : flex ; 
+    justify-content : center ; 
+    align-items : center ;  
+}
+
+.box {
+    width : 305px ;
+    min-height : 300px; 
+    background-color : #e6e6e6; 
+    box-shadow: 2px 10px 12px rgba(0,0,0,0.5); 
+    display : flex ; 
+    flex-direction : column;  
+    align-items : center ; 
+    justify-content : space-between ; 
+    box-sizing : border-box ; 
+    margin : 20px 10px ; 
+    opacity : 1;
+    transition : all ease 0.5s; 
+}
+
+.box .image-div {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+.box .image-div img {
+    width: 100%;
+    transition: .5s;
+}
+.box:hover .image-div img {
+    opacity: .5;
+    transform: translateX(30%);
+}
+
+.box .details {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 100%;
+    background-image: url('../images/white-background.jpg') ; 
+    background-repeat : no-repeat ; 
+    background-size: cover;
+    transition: .5s;
+    transform-origin: left;
+    transform: perspective(2000px) rotateY(-90deg);
+}
+
+.box p {
+    font-size : 22px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.box:hover .details {
+    transform: perspective(2000px) rotateY(0deg);
+}
+
+.details {
+    display : flex ; 
+    flex-direction : column ; 
+    align-items : center ; 
+    width : 300px ; 
+}
+
+.details p {
+    color : black; 
+    text-align: center ; 
+    margin-top : 20px; 
+}
+
+.marvel {
+    color : black ; 
+    font-weight : bold ;  
+    letter-spacing : 2px ; 
+    font-size : 25px ; 
+    transition : all ease 0.5s; 
+}
+
+.box:hover {
+    transform-style : preserve-3d ; 
+    transform : scale(1.05);  
+    opacity : 1 ; 
+    transition : all ease 0.5s; 
+} 
+
+@media(max-width:720px){
+    .box {
+        width : 310px;
+        min-height: 120px ; 
+    }
+    
+    .details p{
+        font-size : 16px ; 
+        width : 250px  ;
+    }
+}
+
+@media(max-width:270px){
+    .box {
+        width : 200px;
+    }
+
+}
