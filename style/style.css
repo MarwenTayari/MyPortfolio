@@ -134,7 +134,7 @@ a.active,a:hover {
 .accueil {
     height : 100vh ; 
     top: 20px ; 
-    background-image : url('../images/font.JPG') ;  
+    background-image : url('../images/font.jpg') ;  
     background-repeat : no-repeat ; 
     background-position : 0px 80px ; 
     background-size : cover ;  
