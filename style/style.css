@@ -568,6 +568,12 @@ footer {
     .competences span {
         font-size: 20px ; 
     }
+    .titre1 {
+        font-size: 20px ; 
+    }
+    .titre2 {
+        font-size: 18px ; 
+    }
     .contact span {
         font-size: 20px ; 
     }
@@ -612,27 +618,47 @@ footer {
         font-size : 30px ; 
         -webkit-text-stroke: 1px white;
     }
+    .btn-style a {
+        font-size : 18px ; 
+    }
     .acceuil-animation1 {
         width : 390px ; 
     }
-    
     .presentation {
-        font-size: 18px ;  
+        font-size: 14px ;  
     }
     .moncv ul {
-        font-size: 18px ; 
+        font-size: 14px ; 
     }
-    .competences span {
-        font-size: 18px ; 
+    .competences-title span {
+        font-size: 16px ; 
     }
-    .contact span {
-        font-size: 18px ; 
+    .front-end span, .back-end span {
+        font-size: 14px ; 
+    }
+    .titre1 {
+        font-size: 16px ; 
+    }
+    .titre2 {
+        font-size: 14px ; 
+    }
+    .contact label ,.contact span {
+        font-size: 16px ; 
+    } 
+    .portfolio p {
+        font-size: 16px ; 
     }
     header nav ul li a {
         font-size: 13px ; 
     }
     .my-img img {
         max-width:180px ; 
+    }
+    .mes-contact {
+        font-size: 14px ;
+    }
+    footer {
+        font-size: 14px ;
     }
     
     @keyframes text1 {

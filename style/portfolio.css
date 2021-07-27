@@ -90,6 +90,13 @@
     letter-spacing : 2px ; 
     font-size : 25px ; 
     transition : all ease 0.5s; 
+    margin : 0.5em auto ; 
+}
+
+.projet-pres p {
+    padding-top : 0.5em ; 
+    padding-left: 0.5em ; 
+    padding-right : 0.5em ; 
 }
 
 .box:hover {
@@ -109,6 +116,12 @@
         font-size : 16px ; 
         width : 250px  ;
     }
+}
+
+@media(max-width:500px){
+.box p {
+    font-size : 16px;
+}
 }
 
 @media(max-width:270px){

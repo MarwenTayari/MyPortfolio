@@ -54,7 +54,7 @@
             <div class="acceuil-animation3"> <span class="d-block text-center acceuil-animation2">Dévloppeur Web</span></div> 
             
             <div class="qui-suis-je"> 
-              <div class="d-flex justify-content-center align-items-center">
+              <div class="d-flex justify-content-center align-items-center btn-style">
                 <a  class="btn btn-warning mt-3" href="#monprofil">QUI-SUIS JE ?</a>
               </div>
             </div>
@@ -130,7 +130,7 @@
          <div class="container"> 
              <div class="row"> 
                 <div class="col-md-12 col-lg-7" data-aos="zoom-in-up"> 
-                    <span class="titre2">MON PARCOURS ACADEMIQUES : </span> 
+                    <span class="titre2">PARCOURS ACADEMIQUES : </span> 
                     <div> 
                          <ul>
                              <li class="pt-3">ENISo , ECOLE NATIONALE D’INGÉNIEURS DE SOUSSE.</li>
@@ -142,7 +142,7 @@
                                 Baccalauréat Sciences Technique </li>
                          </ul>
                     </div>
-                    <span class="titre2">MON PARCOURS PROFESSIONELS : </span> 
+                    <span class="titre2">PARCOURS PROFESSIONELS : </span> 
                     <div> 
                         <ul>
                             <li class="pt-3">SOGECLAIR AEROSPACE SARL</li>
@@ -159,7 +159,7 @@
                     <div class="moncv-div d-flex justify-content-center align-items-center">
                         <img src="cv/CV_TAYARI_Marwen_Dévloppeur FULL_STACK.jpg" alt="mon cv" class="img-fluid">
                     </div>
-                    <div class="text-center"> 
+                    <div class="text-center btn-style"> 
                         <a href="cv/CV_TAYARI_Marwen_Développeur WEB.pdf" class="btn btn-warning mt-3" target="_blank">
                            >> Télécharger
                         </a>
@@ -213,7 +213,7 @@
     <section >
         <section class="my-section competences" id="competences">
             <div class="my-competences-info" >
-              <div class="text-center" data-aos="zoom-in-up"> 
+              <div class="text-center competences-title" data-aos="zoom-in-up"> 
                 <span class="titre1 p-3" > COMPETENCES : </span>
               </div>
                 <div class="container">  
@@ -365,14 +365,14 @@
                         <div class="image-div"> 
                            <img src="images/portfolio/S&BStore.jpg" alt="S&BStore" class="img-fluid"> 
                         </div> 
-                        <div> 
-                          <p class="p-3">Application E-commerce conçu pour vente/achat
+                        <div class="projet-pres"> 
+                          <p class="text-center">Application E-commerce conçu pour vente/achat
                             de toutes sorte d’articles.</p>
                         </div>
                       </div>
-                        
+                      
                       <div class="details"> 
-                            <p class="p-3">Technologies utilisées : <br> REACT JS , REDUX , EXPRESS JS , REACT BOOTSTRAP, MONGO DB</p>
+                            <p class="p-3">Technologies utilisées : <br> MERN APP <br> REACT JS , REDUX , EXPRESS JS , REACT BOOTSTRAP, NODE JS, MONGO DB </p>
                             <p> <a href="https://polar-everglades-90055.herokuapp.com" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
                       </div>
                     </div>
@@ -385,8 +385,10 @@
                         <div class="image-div"> 
                           <img src="images/portfolio/N&B.jpg" alt="N&B" class="img-fluid">
                         </div>
-                        <p class="p-3"> Application Web conçu pour présenter quelques endroits 
-                        </p>
+                        <div class="projet-pres"> 
+                          <p class="text-center"> Application Web conçu pour présenter quelques endroits du monde 
+                          </p>
+                        </div>
                       </div>
                       
                       <div class="details"> 
@@ -403,13 +405,16 @@
                         <div class="image-div"> 
                           <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid">
                         </div>
-                        <p class="p-3"> Application Web conçu pour l'achat des articles
-                        </p>
+                        <div class="projet-pres">
+                          <p class="text-center"> Application Web conçu pour l'achat des articles
+                          </p>
+                        </div>
                       </div>
                       
                       <div class="details"> 
                         <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT 
                         </p>
+                        <p> <a href="https://marwentayari.github.io/Shopping-cart/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
                       </div>
                     </div>
                    </li>
@@ -420,9 +425,11 @@
                         <p class="marvel text-center">4. Movie App</p> 
                         <div class="image-div"> 
                           <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
-                        </div>
-                          <p class="p-3">Application Web conçu pour présenter des filmes Description/Rate/trailer...
+                        </div> 
+                        <div class="projet-pres">
+                          <p class="text-center">Application Web conçu pour ajouter des filmes avec Description/Rate/trailer...
                           </p>
+                        </div>
                       </div>
                       
                       <div class="details"> 
@@ -526,7 +533,7 @@
 
             <div class="mes-contacts"> 
                 <div class="container">
-                    <div class="row"> 
+                    <div class="row mes-contact"> 
                         <div class="col-lg-6 col-md-12 text-center">
                           <i class="bi bi-geo-alt"></i> <i> 43 Rue El Omrane Hammam Sousse 4011, Sousse, Tunisie</i> <br> 
                           <i class="bi bi-geo-alt"></i> <i> Route de Raoued Km3,5 ,2088 Ariana, Tunisie</i>
