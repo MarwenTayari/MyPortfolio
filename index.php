@@ -433,8 +433,9 @@
                       </div>
                       
                       <div class="details"> 
-                        <p class="p-3">Technologies utilisées : <br> REACT JS , REDUX
+                        <p class="p-3">Technologies utilisées : <br> REACT JS 
                         </p>
+                        <p> <a href="https://marwentayari.github.io/Movie-app/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
                       </div>
                     </div>
                    </li>
