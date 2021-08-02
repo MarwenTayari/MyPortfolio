@@ -373,7 +373,9 @@
                       
                       <div class="details"> 
                             <p class="p-3">Technologies utilisées : <br> MERN APP <br> REACT JS , REDUX , EXPRESS JS , REACT BOOTSTRAP, NODE JS, MONGO DB </p>
-                            <p> <a href="https://polar-everglades-90055.herokuapp.com" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                            <div class="lien-div">
+                            <p class="lien-p"> <a href="https://polar-everglades-90055.herokuapp.com" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                            </div>
                       </div>
                     </div>
                    </li>
@@ -381,19 +383,22 @@
                    <li class="irem-a"> 
                     <div class="box"> 
                       <div> 
-                        <p class="marvel text-center">2. N & B</p> 
+                        <p class="marvel text-center">2. N & B Photographies</p> 
                         <div class="image-div"> 
                           <img src="images/portfolio/N&B.jpg" alt="N&B" class="img-fluid">
                         </div>
                         <div class="projet-pres"> 
-                          <p class="text-center"> Application Web conçu pour présenter quelques endroits du monde 
+                          <p class="text-center"> Application Web conçu pour présenter quelques endroits du monde. 
                           </p>
                         </div>
                       </div>
                       
                       <div class="details"> 
                             <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT
-                            </p>
+                            </p> 
+                            <div class="lien-div">
+                            <p class="lien-p"> <a href="https://marwentayari.github.io/N-B-Photographies/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                            </div>
                       </div>
                     </div>
                    </li>
@@ -406,15 +411,17 @@
                           <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid">
                         </div>
                         <div class="projet-pres">
-                          <p class="text-center"> Application Web conçu pour l'achat des articles
+                          <p class="text-center"> Application Web conçu pour l'achat des articles. 
                           </p>
                         </div>
                       </div>
                       
                       <div class="details"> 
                         <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT 
-                        </p>
-                        <p> <a href="https://marwentayari.github.io/Shopping-cart/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                        </p> 
+                        <div class="lien-div">
+                          <p class="lien-p"> <a href="https://marwentayari.github.io/Shopping-cart/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                        </div>
                       </div>
                     </div>
                    </li>
@@ -427,7 +434,7 @@
                           <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
                         </div> 
                         <div class="projet-pres">
-                          <p class="text-center">Application Web conçu pour ajouter des filmes avec Description/Rate/trailer...
+                          <p class="text-center">Application Web conçu pour présenter des filmes avec Description/Rate/trailer...
                           </p>
                         </div>
                       </div>
@@ -435,7 +442,9 @@
                       <div class="details"> 
                         <p class="p-3">Technologies utilisées : <br> REACT JS 
                         </p>
-                        <p> <a href="https://marwentayari.github.io/Movie-app/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                        <div class="lien-div"> 
+                          <p class="lien-p"> <a href="https://marwentayari.github.io/Movie-app/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                        </div>
                       </div>
                     </div>
                    </li>
