@@ -84,7 +84,6 @@
     margin-top : 20px; 
 }
 
-
 .lien-div {
     width : 100% ; 
     height : 100% ; 
@@ -97,7 +96,6 @@
     position : absolute ; 
     bottom : 5px ; 
 }
-
 
 .marvel {
     color : black ; 
@@ -130,6 +128,19 @@
     .details p{
         font-size : 16px ; 
         width : 250px  ;
+    }
+
+    .lien-div {
+        width : 100% ; 
+        height : 100% ; 
+    }
+    
+    .lien-div p {
+        background-color : #d9d9d9 ; 
+        width : 100% ; 
+        text-align: center;
+        position : absolute ; 
+        bottom : 5px ; 
     }
 }
 
