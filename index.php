@@ -283,7 +283,7 @@
                                 <div class="competence-item" data-aos="zoom-in-up"> 
                                     <span>PHP</span>
                                     <div class="progress">
-                                    <div class="progress-value php"></div>
+                                    <div class="progress-value progress-php"></div>
                                     </div>
                                 </div>
                                 <div data-aos="zoom-in-up">
