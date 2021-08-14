@@ -377,8 +377,12 @@ a.active,a:hover {
     animation: react 3s normal forwards;
   }
 
-  .node, .express , .mysql {
+  .node, .express , .mysql , .php {
     animation: node 3s normal forwards;
+  }
+
+   .php {
+    animation: php 3s normal forwards;
   }
 
   .mongodb, .mongoose {
@@ -413,6 +417,11 @@ a.active,a:hover {
   @keyframes node  {
     0% { width: 0; }
     100% { width: 55%; }
+  }
+
+  @keyframes php  {
+    0% { width: 0; }
+    100% { width: 40%; }
   }
 
   @keyframes mongodb  {

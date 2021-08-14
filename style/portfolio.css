@@ -114,7 +114,7 @@
 
 .box:hover {
     transform-style : preserve-3d ; 
-    transform : scale(1.05);  
+    transform : scale(1.00);  
     opacity : 1 ; 
     transition : all ease 0.5s; 
 } 

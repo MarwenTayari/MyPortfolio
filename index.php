@@ -50,8 +50,8 @@
         <section class="my-section accueil"> 
         </section>
         <div class="acceuil-div">
-            <div class="text1-div"> <span class="d-block text-center acceuil-animation1">         Bonjour , Je suis Marwen Tayari...</span></div> 
-            <div class="acceuil-animation3"> <span class="d-block text-center acceuil-animation2">Dévloppeur Web</span></div> 
+            <div class="text1-div"> <span class="d-block text-center acceuil-animation1">Bonjour , Je suis Marwen Tayari...</span></div> 
+            <div class="acceuil-animation3"> <span class="d-block text-center acceuil-animation2">Développeur web</span></div> 
             
             <div class="qui-suis-je"> 
               <div class="d-flex justify-content-center align-items-center btn-style">
@@ -134,12 +134,12 @@
                     <div> 
                          <ul>
                              <li class="pt-3">ENISo , ECOLE NATIONALE D’INGÉNIEURS DE SOUSSE.</li>
-                                Diplôme nationale d’ingénieur en mécatronique.</li>
+                                2015 - Diplôme nationale d’ingénieur en mécatronique.</li>
                              <li class="pt-3">IPEIM, INSTITUT PRÉPARATOIRE AUX ETUDES D’INGÉNIEURS DE MONASTIR.</li>
-                                Concours nationale d’accés aux cycles de formation d’ingénieurs,
+                                2012 - Concours nationale d’accés aux cycles de formation d’ingénieurs,
                                 Physique technique.</li>
                              <li class="pt-3">LYCÉE HAMMAM SOUSSE, SOUSSE.</li>
-                                Baccalauréat Sciences Technique </li>
+                                2009 - Baccalauréat Sciences Technique </li>
                          </ul>
                     </div>
                     <span class="titre2">PARCOURS PROFESSIONELS : </span> 
@@ -266,7 +266,7 @@
                         <div class="col-md-12 col-lg-6" >
                             <div class="back-end"> 
                               <div data-aos="zoom-in-up"> 
-                                <span class="titre2" data-aos="zoom-in-up">Back End : </span>
+                                <span class="titre2" >Back End : </span>
                               </div>
                                 <div class="competence-item" data-aos="zoom-in-up"> 
                                     <span>Node-Js</span>
@@ -280,17 +280,19 @@
                                     <div class="progress-value express"></div>
                                     </div>
                                 </div>
-                                <span class="titre2" data-aos="zoom-in-up">Data Base : </span>
                                 <div class="competence-item" data-aos="zoom-in-up"> 
-                                    <span>MongoDB</span>
+                                    <span>PHP</span>
                                     <div class="progress">
-                                    <div class="progress-value mongodb"></div>
+                                    <div class="progress-value php"></div>
                                     </div>
                                 </div>
+                                <div data-aos="zoom-in-up">
+                                  <span class="titre2" >Data Base : </span>
+                                </div>
                                 <div class="competence-item" data-aos="zoom-in-up"> 
-                                    <span>Mongoose</span>
+                                    <span>MongoDB / Mongoose</span>
                                     <div class="progress">
-                                    <div class="progress-value mongoose"></div>
+                                    <div class="progress-value mongodb"></div>
                                     </div>
                                 </div>
                                 <div class="competence-item" data-aos="zoom-in-up"> 
@@ -366,8 +368,7 @@
                            <img src="images/portfolio/S&BStore.jpg" alt="S&BStore" class="img-fluid"> 
                         </div> 
                         <div class="projet-pres"> 
-                          <p class="text-center">Application E-commerce conçu pour vente/achat
-                            de toutes sorte d’articles.</p>
+                          <p class="text-center">Une application web E-commerce pour vente/achat de toutes sorte d'articles</p>
                         </div>
                       </div>
                       
@@ -388,7 +389,7 @@
                           <img src="images/portfolio/N&B.jpg" alt="N&B" class="img-fluid">
                         </div>
                         <div class="projet-pres"> 
-                          <p class="text-center"> Application Web conçu pour présenter quelques endroits du monde. 
+                          <p class="text-center">Un site Web qui présente quelques endroits avec des albums de photos
                           </p>
                         </div>
                       </div>
@@ -411,7 +412,7 @@
                           <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid">
                         </div>
                         <div class="projet-pres">
-                          <p class="text-center"> Application Web conçu pour l'achat des articles. 
+                          <p class="text-center">Un site web pour achat des articles en ligne. 
                           </p>
                         </div>
                       </div>
@@ -434,7 +435,7 @@
                           <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
                         </div> 
                         <div class="projet-pres">
-                          <p class="text-center">Application Web conçu pour présenter des filmes avec Description/Rate/trailer...
+                          <p class="text-center">Un site web qui permet de présenter des filmes (Description , Rate , Trailer )
                           </p>
                         </div>
                       </div>
