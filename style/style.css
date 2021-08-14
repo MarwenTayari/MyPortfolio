@@ -377,7 +377,7 @@ a.active,a:hover {
     animation: react 3s normal forwards;
   }
 
-  .node, .express , .mysql , .php {
+  .node, .express , .mysql {
     animation: node 3s normal forwards;
   }
 
