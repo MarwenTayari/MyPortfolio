@@ -21,7 +21,7 @@ try {
     $mail->Host = 'smtp.gmail.com'; 
     $mail->SMTPAuth = true; 
     $mail->Username = 'myportfolio.contact21@gmail.com'; 
-    $mail->Password = '96590371'; 
+    $mail->Password = 'Marwen96590371'; 
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;  
     $mail->Port = '587'; 
 
