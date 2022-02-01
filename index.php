@@ -265,37 +265,37 @@
                         </div>
                         <div class="col-md-12 col-lg-6" >
                             <div class="back-end"> 
-                              <div data-aos="zoom-in-up"> 
+                              <div > 
                                 <span class="titre2" >Back End : </span>
                               </div>
-                                <div class="competence-item" data-aos="zoom-in-up"> 
+                                <div class="competence-item" > 
                                     <span>Node-Js</span>
                                     <div class="progress">
                                     <div class="progress-value node"></div>
                                     </div>
                                 </div>
-                                <div class="competence-item" data-aos="zoom-in-up"> 
+                                <div class="competence-item" "> 
                                     <span>Express-Js</span>
                                     <div class="progress">
                                     <div class="progress-value express"></div>
                                     </div>
                                 </div>
-                                <div class="competence-item" data-aos="zoom-in-up"> 
+                                <div class="competence-item" > 
                                     <span>PHP</span>
                                     <div class="progress">
                                     <div class="progress-value progress-php"></div>
                                     </div>
                                 </div>
-                                <div data-aos="zoom-in-up">
+                                <div >
                                   <span class="titre2" >Data Base : </span>
                                 </div>
-                                <div class="competence-item" data-aos="zoom-in-up"> 
+                                <div class="competence-item" > 
                                     <span>MongoDB / Mongoose</span>
                                     <div class="progress">
                                     <div class="progress-value mongodb"></div>
                                     </div>
                                 </div>
-                                <div class="competence-item" data-aos="zoom-in-up"> 
+                                <div class="competence-item" > 
                                     <span>MySQL</span>
                                     <div class="progress">
                                     <div class="progress-value mysql"></div>
