@@ -64,10 +64,10 @@
     <section class="my-section profil" id="monprofil">
         <div class="container profil-content"> 
             <div class="row">
-                <div class="col-md-12 col-lg-3 my-img d-flex justify-content-center" data-aos="zoom-in-up">
+                <div class="col-md-12 col-lg-3 my-img d-flex justify-content-center" data-aos="zoom-out-up">
                     <img src="images/Photo.PNG" alt="photo" width="250px" class="img-fluid">
                 </div>
-                <div class="col-md-12 col-lg-9" data-aos="zoom-in-up"> 
+                <div class="col-md-12 col-lg-9" data-aos="zoom-out-up"> 
                     <div class="my-presentation"> 
                       <div class="text-center"> 
                         <span class="titre1">A PROPOS DE MOI : </span>
@@ -125,11 +125,11 @@
     <section class="my-section moncv monparcours" id="monparcours">
       <div >
         <div class="text-center"> 
-          <span class="text-center titre1" data-aos="zoom-in-up">MON PARCOURS : </span>
+          <span class="text-center titre1" data-aos="zoom-out-up">MON PARCOURS : </span>
         </div>
          <div class="container"> 
              <div class="row"> 
-                <div class="col-md-12 col-lg-7" data-aos="zoom-in-up"> 
+                <div class="col-md-12 col-lg-7" data-aos="zoom-out-up"> 
                     <span class="titre2">PARCOURS ACADEMIQUES : </span> 
                     <div> 
                          <ul>
@@ -152,7 +152,7 @@
                         </ul>
                     </div>
                 </div>
-                 <div class="col-md-12 col-lg-5" data-aos="zoom-in-up"> 
+                 <div class="col-md-12 col-lg-5" data-aos="zoom-out-up"> 
                    <div class="text-center"> 
                        <span class="titre2">MON CV : </span> 
                    </div>
@@ -213,14 +213,14 @@
     <section >
         <section class="my-section competences" id="competences">
             <div class="my-competences-info" >
-              <div class="text-center competences-title" data-aos="zoom-in-up"> 
+              <div class="text-center competences-title" > 
                 <span class="titre1 p-3" > COMPETENCES : </span>
               </div>
                 <div class="container">  
                     <div class="row" >
                         <div class="col-md-12 col-lg-6"> 
                             <div class="front-end" > 
-                              <div data-aos="zoom-in-up"> 
+                              <div > 
                                 <span class="titre2" >Front End : </span>
                               </div>
                                 <div class="competences-items" > 
