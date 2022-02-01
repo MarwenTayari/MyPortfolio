@@ -223,38 +223,38 @@
                               <div data-aos="zoom-in-up"> 
                                 <span class="titre2" >Front End : </span>
                               </div>
-                                <div class="competences-items" data-aos="zoom-in-up"> 
+                                <div class="competences-items" > 
                                     <div class="competence-item">
                                         <span >Html</span>
                                         <div class="progress">
                                             <div class="progress-value html"></div>
                                         </div>
                                     </div>
-                                    <div class="competence-item" data-aos="zoom-in-up">
+                                    <div class="competence-item" >
                                         <span>Css</span>
                                         <div class="progress">
                                             <div class="progress-value css"></div>
                                         </div>
                                     </div>
-                                    <div class="competence-item" data-aos="zoom-in-up">
+                                    <div class="competence-item" >
                                         <span>JavaScript / JQuery</span>
                                         <div class="progress">
                                         <div class="progress-value js"></div>
                                         </div>
                                     </div>
-                                    <div class="competence-item" data-aos="zoom-in-up"> 
+                                    <div class="competence-item" > 
                                         <span>Bootstrap / React-Bootstrap</span>
                                         <div class="progress">
                                         <div class="progress-value bootstrap"></div>
                                         </div>
                                     </div >
-                                    <div class="competence-item" data-aos="zoom-in-up"> 
+                                    <div class="competence-item" > 
                                         <span>React-Js</span>
                                         <div class="progress">
                                         <div class="progress-value react"></div>
                                         </div>
                                     </div>
-                                    <div class="competence-item" data-aos="zoom-in-up"> 
+                                    <div class="competence-item" > 
                                         <span>Redux</span>
                                         <div class="progress">
                                         <div class="progress-value redux"></div>
