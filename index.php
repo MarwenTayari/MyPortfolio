@@ -124,8 +124,8 @@
 
     <section class="my-section moncv monparcours" id="monparcours">
       <div >
-        <div class="text-center"> 
-          <span class="text-center titre1" data-aos="zoom-out-up">MON PARCOURS : </span>
+        <div class="text-center" data-aos="zoom-out-up"> 
+          <span class="text-center titre1" >MON PARCOURS : </span>
         </div>
          <div class="container"> 
              <div class="row"> 
