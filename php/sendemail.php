@@ -4,6 +4,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 require_once 'phpmailer/Exception.php'; 
 require_once 'phpmailer/PHPMailer.php'; 
 require_once 'phpmailer/SMTP.php'; 
+require_once '../style/sendemail.css'; 
 
 $mail = new PHPMailer(true);  
 
@@ -30,7 +31,12 @@ try {
 
     $mail->isHTML(true); 
     $mail->Subject = 'My Portfolio'; 
-    $mail->Body = "<div><h3> Name : </h3> $name <br> <h3>LastName : </h3>$lastname <br> <h3>E-mail : </h3>$email <br> <h3>Message : </h3>$message </div>"; 
+    $mail->Body = "<div>
+                        <p> <span> Name : </span> $name </p> <br> 
+                        <p> <span> LastName : </span> $lastname </p> <br> 
+                        <p> <span> E-mail : </span> $email </p> <br> 
+                        <p> <span> Message : </span> $message </p> <br>       
+                  </div>"; 
 
     $mail->send(); 
     $alert = '<div class="alert alert-success m-3" role="alert">
