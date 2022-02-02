@@ -29,12 +29,14 @@ try {
     $mail->addAddress('tayarimarwen@gmail.com'); 
 
     $mail->isHTML(true); 
-    $mail->Subject = 'My Portfolio'; 
+    $mail->Subject = "My Portfolio : $object"; 
     $mail->Body = "<div>
-                        <p> <span> Name : </span> $name </p> <br> 
-                        <p> <span> LastName : </span> $lastname </p> <br> 
-                        <p> <span> E-mail : </span> $email </p> <br> 
-                        <p> <span> Message : </span> $message </p> <br>       
+                        <p>
+                            <i> Name : </i>$name <br>
+                            <i> LastName : </i>$lastname <br>
+                            <i> E-mail : </i>$email <br> 
+                            <i> Message : </i>$message
+                         </p>       
                   </div>"; 
 
     $mail->send(); 
