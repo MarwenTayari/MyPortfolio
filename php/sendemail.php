@@ -30,7 +30,7 @@ try {
 
     $mail->isHTML(true); 
     $mail->Subject = 'My Portfolio'; 
-    $mail->Body = "<h3> Name : $name <br> lastName : $lastname <br> Email : $email <br> Message : $message </h3>"; 
+    $mail->Body = "<div><h3> Name : </h3> $name <br> <h3>LastName : </h3>$lastname <br> <h3>E-mail : </h3>$email <br> <h3>Message : </h3>$message </div>"; 
 
     $mail->send(); 
     $alert = '<div class="alert alert-success m-3" role="alert">
