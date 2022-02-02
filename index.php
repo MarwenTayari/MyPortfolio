@@ -560,6 +560,9 @@
     
                         <a href="https://github.com/MarwenTayari?tab=repositories"
                             target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+
+                        <a href="https://www.facebook.com/marwen.tayari/"
+                            target="_blank"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
     
                         </div>
                     </div>
