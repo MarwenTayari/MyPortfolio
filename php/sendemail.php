@@ -32,10 +32,10 @@ try {
     $mail->Subject = "My Portfolio : $object"; 
     $mail->Body = "<div>
                         <p>
-                            <i> Name : </i>$name <br>
-                            <i> LastName : </i>$lastname <br>
-                            <i> E-mail : </i>$email <br> 
-                            <i> Message : </i>$message
+                           <strong><i> Name : </i></strong>$name <br>
+                           <strong><i> LastName : </i></strong>$lastname <br>
+                           <strong> <i> E-mail : </i></strong>$email <br> 
+                           <strong> <i> Message : </i></strong>$message
                          </p>       
                   </div>"; 
 
