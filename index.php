@@ -361,10 +361,10 @@
                       <div> 
                         <p class="marvel text-center">1. Raccount network </p> 
                         <div class="image-div"> 
-                           <img src="images/portfolio/Raccuten.png" alt="S&BStore" class="img-fluid"> 
+                           <img src="images/portfolio/Raccuten.png" alt="Raccuten" class="img-fluid"> 
                         </div> 
                         <div class="projet-pres"> 
-                          <p class="text-center">Un site web réseau social dans laquelle l'utilisateur peut retrouver des amis , poster et réagir avec les postes de ces abonnés</p>
+                          <p class="text-center">Un site web réseau social dans laquelle l'utilisateur peut poster,avoir des abonnés et réagir avec ses postes</p>
                         </div>
                       </div>
                       
@@ -385,7 +385,7 @@
                            <img src="images/portfolio/S&BStore.jpg" alt="S&BStore" class="img-fluid"> 
                         </div> 
                         <div class="projet-pres"> 
-                          <p class="text-center">Un site web E-commerce dans laquelle l'utilisateur peut vendre et achater toutes sorte d'articles</p>
+                          <p class="text-center">Un site web E-commerce dans laquelle l'utilisateur peut vendre et acheter toutes sorte d'articles</p>
                         </div>
                       </div>
                       
@@ -401,7 +401,30 @@
                    <li class="irem-a"> 
                     <div class="box"> 
                       <div> 
-                        <p class="marvel text-center">3. Shopping Cart</p> 
+                        <p class="marvel text-center">3. Movie App</p> 
+                        <div class="image-div"> 
+                          <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
+                        </div> 
+                        <div class="projet-pres">
+                          <p class="text-center">Un site web qui présente des filmes avec ses Description , Rate , Trailer , l'utilisateur peut filter et selectionner ses favoris
+                          </p>
+                        </div>
+                      </div>
+                      
+                      <div class="details"> 
+                        <p class="p-3">Technologies utilisées : <br> REACT JS 
+                        </p>
+                        <div class="lien-div"> 
+                          <p class="lien-p"> <a href="https://marwentayari.github.io/Movie-app/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                        </div>
+                      </div>
+                    </div>
+                   </li>
+
+                   <li class="irem-a"> 
+                    <div class="box"> 
+                      <div> 
+                        <p class="marvel text-center">4. Shopping Cart</p> 
                         <div class="image-div"> 
                           <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid">
                         </div>
@@ -416,29 +439,6 @@
                         </p> 
                         <div class="lien-div">
                           <p class="lien-p"> <a href="https://marwentayari.github.io/Shopping-cart/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
-                        </div>
-                      </div>
-                    </div>
-                   </li>
-
-                   <li class="irem-a"> 
-                    <div class="box"> 
-                      <div> 
-                        <p class="marvel text-center">4. Movie App</p> 
-                        <div class="image-div"> 
-                          <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
-                        </div> 
-                        <div class="projet-pres">
-                          <p class="text-center">Un site web qui présente des filmes (Description , Rate , Trailer )
-                          </p>
-                        </div>
-                      </div>
-                      
-                      <div class="details"> 
-                        <p class="p-3">Technologies utilisées : <br> REACT JS 
-                        </p>
-                        <div class="lien-div"> 
-                          <p class="lien-p"> <a href="https://marwentayari.github.io/Movie-app/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
                         </div>
                       </div>
                     </div>
