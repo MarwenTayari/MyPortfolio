@@ -364,7 +364,7 @@
                            <img src="images/portfolio/Raccuten.png" alt="S&BStore" class="img-fluid"> 
                         </div> 
                         <div class="projet-pres"> 
-                          <p class="text-center">Un site web réseau social  dans laquelle l'utilisateur peut créer un compte et retrouver des amis , poster , aimer et commenter les postes d'autres utilisateurs  </p>
+                          <p class="text-center">Un site web réseau social dans laquelle l'utilisateur peut retrouver des amis , poster et réagir avec les postes de ces abonnés</p>
                         </div>
                       </div>
                       
@@ -380,12 +380,12 @@
                    <li class="irem-a"> 
                     <div class="box"> 
                       <div> 
-                        <p class="marvel text-center">1. S & B Store</p> 
+                        <p class="marvel text-center">2. S & B Store</p> 
                         <div class="image-div"> 
                            <img src="images/portfolio/S&BStore.jpg" alt="S&BStore" class="img-fluid"> 
                         </div> 
                         <div class="projet-pres"> 
-                          <p class="text-center">Une application web E-commerce pour vente/achat de toutes sorte d'articles</p>
+                          <p class="text-center">Un site web E-commerce dans laquelle l'utilisateur peut vendre et achater toutes sorte d'articles</p>
                         </div>
                       </div>
                       
@@ -393,29 +393,6 @@
                             <p class="p-3">Technologies utilisées : <br> "MERN stack Application" <br> REACT JS , REDUX , EXPRESS JS , REACT BOOTSTRAP, NODE JS, MONGO DB </p>
                             <div class="lien-div">
                             <p class="lien-p"> <a href="https://polar-everglades-90055.herokuapp.com" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
-                            </div>
-                      </div>
-                    </div>
-                   </li>
-
-                   <li class="irem-a"> 
-                    <div class="box"> 
-                      <div> 
-                        <p class="marvel text-center">2. N & B Photographies</p> 
-                        <div class="image-div"> 
-                          <img src="images/portfolio/N&B.jpg" alt="N&B" class="img-fluid">
-                        </div>
-                        <div class="projet-pres"> 
-                          <p class="text-center">Un site Web qui présente quelques endroits avec des albums de photos
-                          </p>
-                        </div>
-                      </div>
-                      
-                      <div class="details"> 
-                            <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT
-                            </p> 
-                            <div class="lien-div">
-                            <p class="lien-p"> <a href="https://marwentayari.github.io/N-B-Photographies/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
                             </div>
                       </div>
                     </div>
@@ -435,7 +412,7 @@
                       </div>
                       
                       <div class="details"> 
-                        <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT 
+                        <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT (Le développement de ce site est basé sur la manipulation du DOM)
                         </p> 
                         <div class="lien-div">
                           <p class="lien-p"> <a href="https://marwentayari.github.io/Shopping-cart/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
@@ -452,7 +429,7 @@
                           <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
                         </div> 
                         <div class="projet-pres">
-                          <p class="text-center">Un site web qui permet de présenter des filmes (Description , Rate , Trailer )
+                          <p class="text-center">Un site web qui présente des filmes (Description , Rate , Trailer )
                           </p>
                         </div>
                       </div>
