@@ -146,8 +146,7 @@
                     <div> 
                         <ul>
                             <li class="pt-3">SOGECLAIR AEROSPACE SARL</li>
-                               2017-2020 - Ingénieur MAP DESIGN A350</li>
-                               2021-Présent - Ingénieur MAP DESIGN SA/LR</li>
+                               2017-Présent - Ingénieur MAP DESIGN A350/SA/LR</li>
                             <li class="pt-3">TUNIMARINE</li>
                                2016 - Ingénieur conception mécanique </li>
                         </ul>
