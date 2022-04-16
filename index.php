@@ -75,7 +75,7 @@
                         <div class="d-flex justify-content-center align-items-center"> 
                             <p class="presentation text-center"> 
                                 Bonjour, je m’appelle Marwen Tayari , 
-                                je suis un ingénieur en Mécatronique très Passionné par la réalisation et le développement WEB, Je me suis tout naturellement tourné vers une carrière de développeur web, Aujourd’hui je souhaite intégrer une entreprise dynamique et jeune. <br> Autonome ,Organisé , Esprit d’équipe.
+                                je suis un ingénieur en Mécatronique et développement WEB très Passionné par la réalisation et le développement, Je me suis tout naturellement tourné vers une carrière de développeur web, Aujourd’hui je souhaite intégrer une entreprise dynamique et jeune. <br> Autonome ,Organisé , Esprit d’équipe.
                             </p>
                         </div>
                     </div>
@@ -146,7 +146,8 @@
                     <div> 
                         <ul>
                             <li class="pt-3">SOGECLAIR AEROSPACE SARL</li>
-                               2017-2021 - Ingénieur MAP DESIGN (A350/SA/LR)</li>
+                               2017-2020 - Ingénieur MAP DESIGN A350</li>
+                               2021-Présent - Ingénieur MAP DESIGN SA/LR</li>
                             <li class="pt-3">TUNIMARINE</li>
                                2016 - Ingénieur conception mécanique </li>
                         </ul>
@@ -237,7 +238,7 @@
                                         </div>
                                     </div>
                                     <div class="competence-item" >
-                                        <span>JavaScript / JQuery</span>
+                                        <span>JavaScript / ES6 </span>
                                         <div class="progress">
                                         <div class="progress-value js"></div>
                                         </div>
@@ -249,7 +250,7 @@
                                         </div>
                                     </div >
                                     <div class="competence-item" > 
-                                        <span>React-Js</span>
+                                        <span>React-Js / Next Js</span>
                                         <div class="progress">
                                         <div class="progress-value react"></div>
                                         </div>
@@ -269,15 +270,9 @@
                                 <span class="titre2" >Back End : </span>
                               </div>
                                 <div class="competence-item" > 
-                                    <span>Node-Js</span>
+                                    <span>Node Js / Express Js</span>
                                     <div class="progress">
                                     <div class="progress-value node"></div>
-                                    </div>
-                                </div>
-                                <div class="competence-item" "> 
-                                    <span>Express-Js</span>
-                                    <div class="progress">
-                                    <div class="progress-value express"></div>
                                     </div>
                                 </div>
                                 <div class="competence-item" > 
@@ -296,7 +291,7 @@
                                     </div>
                                 </div>
                                 <div class="competence-item" > 
-                                    <span>MySQL</span>
+                                    <span>No SQL</span>
                                     <div class="progress">
                                     <div class="progress-value mysql"></div>
                                     </div>
@@ -360,6 +355,28 @@
           <div class="container-protfolio" data-aos="zoom-in-up">
 
              <ul id="autoWidth" class="cs-hidden"> 
+
+                <li class="irem-a"> 
+                    <div class="box"> 
+                      <div> 
+                        <p class="marvel text-center">1. Raccount network </p> 
+                        <div class="image-div"> 
+                           <img src="images/portfolio/Raccuten.png" alt="S&BStore" class="img-fluid"> 
+                        </div> 
+                        <div class="projet-pres"> 
+                          <p class="text-center">Un site web réseau social  dans laquelle l'utilisateur peut créer un compte et retrouver des amis , poster , aimer et commenter les postes d'autres utilisateurs  </p>
+                        </div>
+                      </div>
+                      
+                      <div class="details"> 
+                            <p class="p-3">Technologies utilisées : <br> "MERN stack Application" <br> REACT JS , REDUX , EXPRESS JS , NODE JS, MONGO DB </p>
+                            <div class="lien-div">
+                            <p class="lien-p"> <a href="https://social-network-raccount.herokuapp.com/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
+                            </div>
+                      </div>
+                    </div>
+                   </li>
+
                    <li class="irem-a"> 
                     <div class="box"> 
                       <div> 
@@ -373,7 +390,7 @@
                       </div>
                       
                       <div class="details"> 
-                            <p class="p-3">Technologies utilisées : <br> MERN APP <br> REACT JS , REDUX , EXPRESS JS , REACT BOOTSTRAP, NODE JS, MONGO DB </p>
+                            <p class="p-3">Technologies utilisées : <br> "MERN stack Application" <br> REACT JS , REDUX , EXPRESS JS , REACT BOOTSTRAP, NODE JS, MONGO DB </p>
                             <div class="lien-div">
                             <p class="lien-p"> <a href="https://polar-everglades-90055.herokuapp.com" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
                             </div>
