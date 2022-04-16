@@ -65,7 +65,7 @@
         <div class="container profil-content"> 
             <div class="row">
                 <div class="col-md-12 col-lg-3 my-img d-flex justify-content-center" data-aos="zoom-out-up">
-                    <img src="images/Photo.PNG" alt="photo" width="250px" class="img-fluid">
+                    <img src="images/Photo2.png" alt="photo" width="250px" class="img-fluid">
                 </div>
                 <div class="col-md-12 col-lg-9" data-aos="zoom-out-up"> 
                     <div class="my-presentation"> 
