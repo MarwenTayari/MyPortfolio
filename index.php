@@ -361,7 +361,7 @@
                       <div> 
                         <p class="marvel text-center">1. Raccount network </p> 
                         <div class="image-div"> 
-                           <img src="images/portfolio/Raccuten.png" alt="Raccuten" class="img-fluid"> 
+                           <img src="images/portfolio/Raccuten.png" alt="Raccuten" class="img-fluid" width="250" height="170"> 
                         </div> 
                         <div class="projet-pres"> 
                           <p class="text-center">Un site web réseau social dans laquelle l'utilisateur peut poster,avoir des abonnés et réagir avec ses postes</p>
@@ -382,7 +382,7 @@
                       <div> 
                         <p class="marvel text-center">2. S & B Store</p> 
                         <div class="image-div"> 
-                           <img src="images/portfolio/S&BStore.jpg" alt="S&BStore" class="img-fluid"> 
+                           <img src="images/portfolio/S&BStore.jpg" alt="S&BStore" class="img-fluid" width="250" height="170"> 
                         </div> 
                         <div class="projet-pres"> 
                           <p class="text-center">Un site web E-commerce dans laquelle l'utilisateur peut vendre et acheter toutes sorte d'articles</p>
@@ -403,7 +403,7 @@
                       <div> 
                         <p class="marvel text-center">3. Movie App</p> 
                         <div class="image-div"> 
-                          <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid">
+                          <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid" width="250" height="170">
                         </div> 
                         <div class="projet-pres">
                           <p class="text-center">Un site web qui présente des filmes avec ses Description , Rate , Trailer , l'utilisateur peut filter et selectionner ses favoris
@@ -426,7 +426,7 @@
                       <div> 
                         <p class="marvel text-center">4. Shopping Cart</p> 
                         <div class="image-div"> 
-                          <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid">
+                          <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid" width="250" height="170">
                         </div>
                         <div class="projet-pres">
                           <p class="text-center">Un site web pour achat des articles en ligne. 
