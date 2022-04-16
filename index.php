@@ -214,13 +214,13 @@
         <section class="my-section competences" id="competences">
             <div class="my-competences-info" >
               <div class="text-center competences-title" > 
-                <span class="titre1 p-3" > COMPETENCES : </span>
+                <span class="titre1 p-3" data-aos="zoom-out-up"> COMPETENCES : </span>
               </div>
                 <div class="container">  
                     <div class="row" >
                         <div class="col-md-12 col-lg-6"> 
                             <div class="front-end" > 
-                              <div > 
+                              <div data-aos="zoom-out-up"> 
                                 <span class="titre2" >Front End : </span>
                               </div>
                                 <div class="competences-items" > 
@@ -263,7 +263,7 @@
                                 </div>
                                 </div>
                         </div>
-                        <div class="col-md-12 col-lg-6" >
+                        <div class="col-md-12 col-lg-6" data-aos="zoom-out-up" >
                             <div class="back-end"> 
                               <div > 
                                 <span class="titre2" >Back End : </span>
