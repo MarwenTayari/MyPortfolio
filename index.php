@@ -218,9 +218,9 @@
               </div>
                 <div class="container">  
                     <div class="row" >
-                        <div class="col-md-12 col-lg-6"> 
+                        <div class="col-md-12 col-lg-6" data-aos="zoom-out-up" > 
                             <div class="front-end" > 
-                              <div data-aos="zoom-out-up"> 
+                              <div > 
                                 <span class="titre2" >Front End : </span>
                               </div>
                                 <div class="competences-items" > 
@@ -405,7 +405,7 @@
                           <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid" width="250" height="170">
                         </div> 
                         <div class="projet-pres">
-                          <p class="text-center">Un site web qui présente des filmes avec Description , Rate , l'utilisateur peut filter et selectionner des favoris
+                          <p class="text-center">Une interface web qui présente des filmes avec Description , Rate , l'utilisateur peut filter et selectionner ses favoris
                           </p>
                         </div>
                       </div>
@@ -428,13 +428,13 @@
                           <img src="images/portfolio/Shoppingcart.jpg" alt="ShoppingCart" class="img-fluid" width="250" height="170">
                         </div>
                         <div class="projet-pres">
-                          <p class="text-center">Un site web pour achat des articles en ligne. 
+                          <p class="text-center">Une interface web d'achat des articles en ligne 
                           </p>
                         </div>
                       </div>
                       
                       <div class="details"> 
-                        <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT (Le développement de ce site est basé sur la manipulation du DOM)
+                        <p class="p-3"> Technologies utilisées : <br> HTML, CSS , JAVASCRIPT (Le développement de cette interface est basé sur la manipulation du DOM)
                         </p> 
                         <div class="lien-div">
                           <p class="lien-p"> <a href="https://marwentayari.github.io/Shopping-cart/" Target="_blank"> <i class="bi bi-link"></i> Lien</a></p>
