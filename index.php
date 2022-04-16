@@ -363,7 +363,7 @@
                            <img src="images/portfolio/Raccuten.png" alt="Raccuten" class="img-fluid" width="250" height="170"> 
                         </div> 
                         <div class="projet-pres"> 
-                          <p class="text-center">Un site web réseau social dans laquelle l'utilisateur peut poster,avoir des abonnés et réagir avec ses postes</p>
+                          <p class="text-center">Un site web réseau social dans laquelle l'utilisateur peut retrouver des amis ,poster et réagir avec des postes</p>
                         </div>
                       </div>
                       
