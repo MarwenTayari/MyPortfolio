@@ -405,7 +405,7 @@
                           <img src="images/portfolio/Movieapp.jpg" alt="MovieApp" class="model img-fluid" width="250" height="170">
                         </div> 
                         <div class="projet-pres">
-                          <p class="text-center">Un site web qui présente des filmes avec ses Description , Rate , Trailer , l'utilisateur peut filter et selectionner ses favoris
+                          <p class="text-center">Un site web qui présente des filmes avec Description , Rate , l'utilisateur peut filter et selectionner des favoris
                           </p>
                         </div>
                       </div>
